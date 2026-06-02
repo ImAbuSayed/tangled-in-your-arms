@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-your-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tangled In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-arms/) |
+| **Get License** | [Obtain a Music License for Tangled In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c82b05695a2a010702960d8d2bd4bdc103ee71ef0656952a0cbb6908c8b5c5c7` |
 | **Timestamp** | June 03, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
