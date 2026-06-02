@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-your-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tangled In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-arms/) |
+| **Get License** | [Music Rights & Licensing for Tangled In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Lost in the glow of a midnight fire
+> Pulling you close is my only desire
+> Your breath on my neck like a summer breeze
+> Falling for you is a beautiful tease
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
